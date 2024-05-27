@@ -1,0 +1,1 @@
+MICROS.EXE /oOUT.TXT
